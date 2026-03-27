@@ -1,9 +1,16 @@
 <div align="center">
 
 # Varuntej Reddy N
-### Full Stack Developer · AI Engineer
+### Full Stack Developer | AI Engineer | Building Scalable Web & AI Systems
 
-[![Portfolio](https://img.shields.io/badge/varuntej.online-1E50A0?style=flat-square&logo=google-chrome&logoColor=white)](https://varuntej.online)
+🚀 Building production-ready web apps & AI systems  
+⚡ 20+ live projects across industries  
+🧠 Focused on RAG, LLMs & scalable backend systems  
+🎯 Open to internships & SDE roles (2026)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E50A0?style=flat-square&logo=google-chrome&logoColor=white)](https://varuntej.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nvaruntej-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvaruntej)
 [![Email](https://img.shields.io/badge/Email-hello@varuntej.online-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@varuntej.online)
 [![GitHub](https://img.shields.io/badge/GitHub-varuntejreddy03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varuntejreddy03)
@@ -12,97 +19,85 @@
 
 ---
 
-## About me
+## About Me
 
-Full Stack Developer and AI Engineer from Hyderabad, India. I build real-world web applications for clients and AI-powered systems for production. Currently interning at **StaffArc** while working on freelance projects and exploring LLMs.
+I’m a Full Stack Developer and AI Engineer focused on building scalable web applications and real-world AI systems.
 
-- **20+ production websites** shipped for real businesses across 5+ industries
-- Built a **RAG pipeline over a 4.4 GB FAISS index** with sub-3s medical Q&A
-- B.Tech CSE @ Keshav Memorial College of Engineering *(Expected 2027)*
-- Currently expanding into **LangChain, OpenAI API, and system design**
+I have delivered **20+ production websites** for businesses and developed intelligent systems including a **RAG-based medical AI** with a 4.4GB FAISS index achieving **sub-3s response time**.
 
----
+Currently, I’m expanding into **LLM-powered applications, system design, and cloud-native architectures** while working on freelance and internship projects.
 
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [MedRAG — AI Healthcare Copilot](https://medrag.site)
-AI-powered medical Q&A using RAG architecture over a 4.4 GB FAISS vector index. FastAPI backend with JWT auth, RBAC, and Docker + AWS deployment.
-
-`FastAPI` `FAISS` `RAG` `Gemini API` `Docker` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-### [KMCE Cricket Portal](https://kmcecricket.varuntej.online)
-Real-time tournament management system for 10 teams and 500+ registered players. Live scoreboards, fixtures, and role-based access for admins, scorers, and viewers.
-
-`React` `Supabase` `PostgreSQL` `Real-time`
-
-</td>
-</tr>
-</table>
+💡 Interests: AI Systems, Backend Engineering, System Design, Startups  
 
 ---
 
-## Tech stack
+## Featured Projects
 
-**Languages**
+### MedRAG — AI Healthcare Copilot  
+🔗 https://medrag.site  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- Built RAG-based medical AI over **4.4GB FAISS index**  
+- Achieved **<3s response time** for real-time Q&A  
+- Implemented **JWT auth, RBAC, Dockerized deployment on AWS**  
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & AI**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Tech:** FastAPI · FAISS · RAG · Gemini API · Docker · AWS  
 
 ---
 
-## GitHub stats
+### KMCE Cricket Portal  
+🔗 https://kmcecricket.varuntej.online  
+
+- Managed **500+ players & 10 teams in real-time**  
+- Built **live scoring + role-based dashboards**  
+- Optimized real-time updates using Supabase  
+
+**Tech:** React · Supabase · PostgreSQL · Real-time  
+
+---
+
+## Tech Stack
+
+**Languages**  
+JavaScript · TypeScript · Python · Java  
+
+**Frontend**  
+React · Next.js · Tailwind CSS  
+
+**Backend & AI**  
+Node.js · FastAPI · Express  
+
+**Database & Cloud**  
+PostgreSQL · MongoDB · AWS · Docker  
+
+---
+
+## Currently Working On
+
+- Building AI-powered apps using **LangChain & OpenAI**  
+- Scaling backend systems with **Node.js & FastAPI**  
+- Learning **system design & distributed systems**  
+
+---
+
+## Highlights
+
+- 🚀 Built 20+ production-grade projects  
+- ⚡ Developed real-time systems with 500+ users  
+- 🧠 Built AI system with large-scale vector search (FAISS)  
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=varuntejreddy03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntejreddy03&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntejreddy03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=varuntejreddy03&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=varuntejreddy03&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,6 +105,14 @@ Real-time tournament management system for 10 teams and 500+ registered players.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=varuntejreddy03&color=1E50A0&style=flat-square&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=varuntejreddy03&color=1E50A0&style=flat-square&label=Profile+Views)
 
 </div>
+
+---
+
+## Let's Connect
+
+💼 LinkedIn: https://linkedin.com/in/nvaruntej  
+🌐 Portfolio: https://varuntej.online  
+📧 Email: hello@varuntej.online  
