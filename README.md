@@ -1,118 +1,79 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Varuntej Reddy N</h1>
 
-# Varuntej Reddy N
-### Full Stack Developer | AI Engineer | Building Scalable Web & AI Systems
+<h3 align="center">
+Full Stack Developer | AI Engineer | Building Scalable Web & AI Systems
+</h3>
 
-🚀 Building production-ready web apps & AI systems  
-⚡ 20+ live projects across industries  
-🧠 Focused on RAG, LLMs & scalable backend systems  
-🎯 Open to internships & SDE roles (2026)
+---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Building+production-ready+apps;20%2B+Live+Projects;React+%7C+Next.js+%7C+AI;Open+to+Opportunities+2026" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🚀 Building **production-ready web apps & AI systems**
+- ⚡ 20+ live projects across industries  
+- 🧠 Focused on **RAG, LLMs & scalable backend systems**
+- 🎯 Open to internships & SDE roles (2026)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,mysql,git" />
+</p>
+
+---
+
+## 🌐 Live Projects
+
+- ☕ [Grind Cafe](https://thegrindcafe.in/)
+- 🪑 [Jharoka Furniture](https://jharoka.in/)
+- 📈 [FlowReach](https://flowreachsolutions.com/)
+- ❤️ [Love You Chai](https://loveyouchai.com/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=varuntejreddy03&show_icons=true&theme=radical" />
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E50A0?style=flat-square&logo=google-chrome&logoColor=white)](https://varuntej.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nvaruntej-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvaruntej)
-[![Email](https://img.shields.io/badge/Email-hello@varuntej.online-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@varuntej.online)
-[![GitHub](https://img.shields.io/badge/GitHub-varuntejreddy03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varuntejreddy03)
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntejreddy03&theme=radical" />
+</p>
 
 ---
 
-## About Me
+## 🧠 Activity Graph
 
-I’m a Full Stack Developer and AI Engineer focused on building scalable web applications and real-world AI systems.
-
-I have delivered **20+ production websites** for businesses and developed intelligent systems including a **RAG-based medical AI** with a 4.4GB FAISS index achieving **sub-3s response time**.
-
-Currently, I’m expanding into **LLM-powered applications, system design, and cloud-native architectures** while working on freelance and internship projects.
-
-💡 Interests: AI Systems, Backend Engineering, System Design, Startups  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntejreddy03&theme=react-dark" />
+</p>
 
 ---
 
-## Featured Projects
+## 🤝 Connect With Me
 
-### MedRAG — AI Healthcare Copilot  
-🔗 https://medrag.site  
+<p align="center">
+<a href="https://your-portfolio-link">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- Built RAG-based medical AI over **4.4GB FAISS index**  
-- Achieved **<3s response time** for real-time Q&A  
-- Implemented **JWT auth, RBAC, Dockerized deployment on AWS**  
+<a href="https://linkedin.com/in/your-link">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**Tech:** FastAPI · FAISS · RAG · Gemini API · Docker · AWS  
-
----
-
-### KMCE Cricket Portal  
-🔗 https://kmcecricket.varuntej.online  
-
-- Managed **500+ players & 10 teams in real-time**  
-- Built **live scoring + role-based dashboards**  
-- Optimized real-time updates using Supabase  
-
-**Tech:** React · Supabase · PostgreSQL · Real-time  
+<a href="mailto:hello@varuntej.online">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-## Tech Stack
+## ⚡ Fun Fact
 
-**Languages**  
-JavaScript · TypeScript · Python · Java  
-
-**Frontend**  
-React · Next.js · Tailwind CSS  
-
-**Backend & AI**  
-Node.js · FastAPI · Express  
-
-**Database & Cloud**  
-PostgreSQL · MongoDB · AWS · Docker  
-
----
-
-## Currently Working On
-
-- Building AI-powered apps using **LangChain & OpenAI**  
-- Scaling backend systems with **Node.js & FastAPI**  
-- Learning **system design & distributed systems**  
-
----
-
-## Highlights
-
-- 🚀 Built 20+ production-grade projects  
-- ⚡ Developed real-time systems with 500+ users  
-- 🧠 Built AI system with large-scale vector search (FAISS)  
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=varuntejreddy03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntejreddy03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=varuntejreddy03&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=varuntejreddy03&color=1E50A0&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## Let's Connect
-
-💼 LinkedIn: https://linkedin.com/in/nvaruntej  
-🌐 Portfolio: https://varuntej.online  
-📧 Email: hello@varuntej.online  
+💡 I’ve already built 20+ real client websites — just started sharing them recently 😅
