@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E50A0&height=120&section=header&text=Varuntej%20Reddy%20N&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%26%20AI%20Engineer&descSize=16&descAlignY=68&descColor=c8d8f0" width="100%"/>
+# Varuntej Reddy N
+### Full Stack Developer · AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=1E50A0&center=true&vCenter=true&width=600&lines=Building+production+web+apps+since+day+one;20%2B+live+client+websites+shipped;RAG+%7C+FAISS+%7C+LLMs+%7C+Vector+Search;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+AWS)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/varuntej.online-1E50A0?style=flat-square&logo=google-chrome&logoColor=white)](https://varuntej.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nvaruntej-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvaruntej)
+[![Email](https://img.shields.io/badge/Email-hello@varuntej.online-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@varuntej.online)
+[![GitHub](https://img.shields.io/badge/GitHub-varuntejreddy03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varuntejreddy03)
 
 </div>
 
@@ -17,7 +21,7 @@ Full Stack Developer and AI Engineer from Hyderabad, India. I build real-world w
 - B.Tech CSE @ Keshav Memorial College of Engineering *(Expected 2027)*
 - Currently expanding into **LangChain, OpenAI API, and system design**
 
-&nbsp;
+---
 
 ## Featured projects
 
@@ -42,7 +46,7 @@ Real-time tournament management system for 10 teams and 500+ registered players.
 </tr>
 </table>
 
-&nbsp;
+---
 
 ## Tech stack
 
@@ -86,34 +90,26 @@ Real-time tournament management system for 10 teams and 500+ registered players.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-&nbsp;
+---
 
 ## GitHub stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=varuntejreddy03&show_icons=true&theme=default&hide_border=true&title_color=1E50A0&icon_color=1E50A0&text_color=444444&bg_color=ffffff&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntejreddy03&layout=compact&hide_border=true&title_color=1E50A0&text_color=444444&bg_color=ffffff&count_private=true"/>
-
-<br/>
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=varuntejreddy03&theme=default&hide_border=true&ring=1E50A0&fire=1E50A0&currStreakLabel=1E50A0)
-
-</div>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=varuntejreddy03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 &nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntejreddy03&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 
-## Let's connect
+<br/><br/>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-varuntej.online-1E50A0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varuntej.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvaruntej)
-[![Email](https://img.shields.io/badge/Email-hello@varuntej.online-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@varuntej.online)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=varuntejreddy03&theme=tokyonight&hide_border=true)
 
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E50A0&height=80&section=footer" width="100%"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=varuntejreddy03&color=1E50A0&style=flat-square&label=Profile+views)
+
 </div>
